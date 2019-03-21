@@ -1,1 +1,3 @@
-# fluffy-octo-enigma
+# Python#1
+
+Просто первый общий проект.
